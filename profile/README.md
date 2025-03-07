@@ -4,7 +4,7 @@
 
 🏆 2025 SSAFY 12기 공통 프로젝트 최우수 수상작
 
-![piuda_main](./image/agarang-start.png)
+![piuda_main](../image/agarang-start.png)
 
 1. [**서비스 소개**](#1)
 
@@ -108,7 +108,7 @@
         <strong> <em> 혼자 육아가 아닌 공동 육아를 하도록 </br> 공동 육아를 할 수 있게 합니다. </em></strong></br></br>
         공동 육아를 고려하여 주 / 보조 양육자로 권한 구분, 권한을 지정하여 초대, 양육자간 아기 정보 공유가능하게 하도록 초대 코드발급, 공동 양육자 관리 서비스를 제공합니다.
       </td>
-      <td><img src="./image/custody-1.jpg" alt="GreenClub GIF" width="250" /></td>
+      <td><img src="/image/custody-1.jpg" alt="GreenClub GIF" width="250" /></td>
     </tr>
     <tr>
       <td align="center"><strong>③ Diary</strong></td>
@@ -117,7 +117,7 @@
         첫 걸음마, 첫 이유식 등 아기의 소중한 순간 저장을 할 수 있고 육아 다이어리를 제공합니다.
         AI를 활용한 일기 내용의 키워드 추출, 키워드 기반 검색을 할 수 있습니다. 
       </td>
-      <td><img src="./image/diary-1.jpg" alt="GreenAuth GIF" width="250" /></td>
+      <td><img src="/image/diary-1.jpg" alt="GreenAuth GIF" width="250" /></td>
     </tr>
     <tr>
       <td align="center"><strong>④ Map</strong></td>
@@ -126,7 +126,7 @@
         수유실, 병원, 약국, 베리어 프리가 어디에 있는지 사용자의 현재 위치 기반으로 근처 정보 제공을 해줍니다.
         수유실, 병원 목록등을 신속하게 확인할수 있습니다. 아빠도 이용 가능한 가족 수유실 정보 제공을 합니다.
       </td>
-      <td><img src="./image/map.jpg" alt="" width="250" /></td>
+      <td><img src="/image/map.jpg" alt="" width="250" /></td>
     </tr>
 <tr>
       <td align="center"><strong>⑤ Statistics </strong></td>
@@ -135,7 +135,7 @@
         우리 아이의 주간 평균 성장 변화 추이 제공해주고 수유량 / 수면 시간등 패턴 분석으로 우리 아이 생활 리듬 파악하게 도와줍니다. 
         성장 지표 그래프로 시각화와 맞춤형 인사이트를 제공해줍니다.
       </td>
-      <td><img src="./image/statistics-1.jpg" alt="" width="250" /></td>
+      <td><img src="/image/statistics-1.jpg" alt="" width="250" /></td>
     </tr>
     <tr>
       <td align="center"><strong>⑥ PIYONG</strong></td>
@@ -143,7 +143,7 @@
         <strong> <em> 내가 아닌 다른 사람이 육아 할때  </br> 어떤 문제가 있었는지 바로바로 알고 싶어!! </em></strong></br></br>
         공동 양육자가 육아를 하고 있을때 전에 있었던 이슈를 공동 양육자한테 물어볼 수 있게 채팅 기능을 제공합니다. 채팅에서 중요한 메세지는 공지로 등록할 수 있고 이 공지가 등록되면 다른 양육자한테 알림을 보낼수 있도록 합니다.
       </td>
-      <td><img src="./image/piyong.jpg" alt="" width="250" /></td>
+      <td><img src="/image/piyong.jpg" alt="" width="250" /></td>
     </tr>
   </tbody>
 </table>
